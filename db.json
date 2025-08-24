@@ -1,0 +1,1951 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "date": "2025-12-01",
+      "bestSelling": false,
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Cotton Suit",
+      "rating": 15,
+      "number": 3,
+      "price": 500,
+      "isNew": false,
+      "size": {
+        "S": 5,
+        "M": 8,
+        "L": 7,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        }
+      ],
+      "color": "black",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SF-EF23-09-Black_6c260435-f8fd-45c6-8456-ddb358d9aef0_2400x2400.jpg?v=1751291053",
+        "https://www.mariab.pk/cdn/shop/files/SF-EF23-09-Blackb_adb4238e-7fcd-41b6-b83b-bf910778189a_2400x2400.jpg?v=1751291053",
+        "https://www.mariab.pk/cdn/shop/files/SF-EF23-09-Blackc_934296d5-e674-4fd2-927a-fa785699a361_2400x2400.jpg?v=1751291053",
+        "https://www.mariab.pk/cdn/shop/files/SF-EF23-09-Blackd_cb5030aa-08d9-46f6-9af1-8efc53611361_2400x2400.jpg?v=1751291053"
+      ]
+    },
+    {
+      "id": "1",
+      "date": "2020-12-01",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 3,
+      "number": 1,
+      "bestSelling": false,
+      "price": 2000,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 7,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 5,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 2,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 6,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "blue",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SFEf2520TealFront_A_2400x2400.jpg?v=1747656649",
+        "https://www.mariab.pk/cdn/shop/files/SFEf2520TealCloseup_E_2400x2400.jpg?v=1747656649",
+        "https://www.mariab.pk/cdn/shop/files/SFEf2520TealCloseup_G_2400x2400.jpg?v=1747656649",
+        "https://www.mariab.pk/cdn/shop/files/SFEf2520TealCloseup3_F_2400x2400.jpg?v=1747656649"
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2025-12-01",
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Cotton Suit",
+      "rating": 0,
+      "number": 0,
+      "bestSelling": false,
+      "price": 1500,
+      "isNew": false,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8
+      },
+      "quantity": [
+        {
+          "S": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "L": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "black",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-3Front_A_335540b1-1104-4916-8964-9ce8d30385ff_2400x2400.jpg?v=1747037531",
+        "https://www.mariab.pk/cdn/shop/files/D-3Closeup_D_6100ffc0-05fb-4c65-ba77-ff2447ce5990_2400x2400.jpg?v=1747037531",
+        "https://www.mariab.pk/cdn/shop/files/D-3Closeup_C_2400x2400.jpg?v=1747037531",
+        "https://www.mariab.pk/cdn/shop/files/D-3Closeup_E_ae5bec72-aaac-43f9-9711-30d90641f0e3_2400x2400.jpg?v=1747037531"
+      ]
+    },
+    {
+      "id": "3",
+      "date": "2024-12-01",
+      "title": "3 Piece Embroidered Net Suit",
+      "productId": "DW-MN25-11",
+      "category": "Net Suit",
+      "rating": 0,
+      "number": 0,
+      "bestSelling": false,
+      "price": 3000,
+      "isNew": true,
+      "size": {
+        "S": 5,
+        "M": 8,
+        "L": 7,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "L": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "blue",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/DWPf2503Front_A_2400x2400.jpg?v=1751291250",
+        "https://www.mariab.pk/cdn/shop/files/DWPf2503Side_B_2400x2400.jpg?v=1751291250",
+        "https://www.mariab.pk/cdn/shop/files/DWPf2503Closeup_F_2400x2400.jpg?v=1751291250",
+        "https://www.mariab.pk/cdn/shop/files/DWPf2503Closeup_G_2400x2400.jpg?v=1751291250"
+      ]
+    },
+    {
+      "id": "4",
+      "date": "2025-12-01",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 0,
+      "number": 0,
+      "bestSelling": true,
+      "price": 3500,
+      "isNew": false,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 7,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "L": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "orange",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/products/LF_404S_2400x2400.jpg?v=1678199607",
+        "https://www.mariab.pk/cdn/shop/products/LF_404Sc_2400x2400.jpg?v=1678199607",
+        "https://www.mariab.pk/cdn/shop/products/LF_404Ss_2400x2400.jpg?v=1678199607",
+        "https://www.mariab.pk/cdn/shop/products/LF_404S_2400x2400.jpg?v=1678199607"
+      ]
+    },
+    {
+      "id": "5",
+      "date": "2022-12-01",
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Cotton Suit",
+      "rating": 3,
+      "number": 1,
+      "bestSelling": true,
+      "price": 1500,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 7
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "L": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "orange",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SF_W24_62_Pink_Front_2400x2400.jpg?v=1731420684",
+        "https://www.mariab.pk/cdn/shop/files/SF_W24_62_Pink_Closeup-2_2400x2400.jpg?v=1731420683",
+        "https://www.mariab.pk/cdn/shop/files/SF_W24_62_Pink_Closeup-3_2400x2400.jpg?v=1731420683",
+        "https://www.mariab.pk/cdn/shop/files/SF_W24_62_Pink_Side_2400x2400.jpg?v=1731420683"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2022-12-01",
+      "price": 2000,
+      "isNew": false,
+      "bestSelling": true,
+      "size": {
+        "XS": 4,
+        "M": 8,
+        "L": 7,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "L": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "green",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SF_EF_21_07_Green_Front_A_2400x2400.jpg?v=1746617386",
+        "https://www.mariab.pk/cdn/shop/files/SF_EF_21_07_Green_Closeup_D_2400x2400.jpg?v=1746617386",
+        "https://www.mariab.pk/cdn/shop/files/SF_EF_21_07_Green_Closeup_F_2400x2400.jpg?v=1746617386",
+        "https://www.mariab.pk/cdn/shop/files/SF_EF_21_07_Green_Side_B_2400x2400.jpg?v=1746617386"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 5,
+      "number": 1,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1500,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 7,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "white",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SN-PF23-02-Green_2400x2400.jpg?v=1695297468",
+        "https://www.mariab.pk/cdn/shop/files/SN-PF23-02-GreenB_2400x2400.jpg?v=1695297468",
+        "https://www.mariab.pk/cdn/shop/files/SN-PF23-02-GreenC_2400x2400.jpg?v=1695297466",
+        "https://www.mariab.pk/cdn/shop/files/SN-PF23-02-Greend_2400x2400.jpg?v=1695297467"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1600,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "black",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/DWMN2410RFront_A_2400x2400.jpg?v=1752306826",
+        "https://www.mariab.pk/cdn/shop/files/DWMN2410RCloseup_D_2400x2400.jpg?v=1752306826",
+        "https://www.mariab.pk/cdn/shop/files/DWMN2410RCloseup_E_2400x2400.jpg?v=1752306826",
+        "https://www.mariab.pk/cdn/shop/files/DWMN2410RCloseup_F_2400x2400.jpg?v=1752306826"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 4,
+      "number": 1,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 2600,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "XL": 3
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "green",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SFW2481TealFront_A_720x.jpg?v=1735904931",
+        "https://www.mariab.pk/cdn/shop/files/SFW2481TealCloseup_D_2400x2400.jpg?v=1735904931",
+        "https://www.mariab.pk/cdn/shop/files/SFW2481TealCloseup_E_2400x2400.jpg?v=1735904931",
+        "https://www.mariab.pk/cdn/shop/files/SFW2481TealCloseup_F_2400x2400.jpg?v=1735904931"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Cotton Suit",
+      "rating": 5,
+      "number": 1,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1300,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "red",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/DWEA2561RedFront_A_2400x2400.jpg?v=1745059808",
+        "https://www.mariab.pk/cdn/shop/files/DWEA2561RedCloseup_E_2400x2400.jpg?v=1745059808",
+        "https://www.mariab.pk/cdn/shop/files/DWEA2561RedSide_B_2400x2400.jpg?v=1745059808",
+        "https://www.mariab.pk/cdn/shop/files/DWEA2561RedSide_C_2400x2400.jpg?v=1745059808"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 5,
+      "number": 1,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 2500,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "yellow",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/SFEF2561MustardFront_A_2400x2400.jpg?v=1740819007",
+        "https://www.mariab.pk/cdn/shop/files/SFEF2561MustardCloseup_D_2400x2400.jpg?v=1740819007",
+        "https://www.mariab.pk/cdn/shop/files/SFEF2561MustardCloseup_C_2400x2400.jpg?v=1740819007",
+        "https://www.mariab.pk/cdn/shop/files/SFEF2561MustardSide_B_2400x2400.jpg?v=1740819007"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 2000,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "brown",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/DWEA2590CoffeeFront_A_2400x2400.jpg?v=1745311842",
+        "https://www.mariab.pk/cdn/shop/files/DWEA2590CoffeeCloseup_D_2400x2400.jpg?v=1745311842",
+        "https://www.mariab.pk/cdn/shop/files/DWEA2590CoffeeCloseup_F_2400x2400.jpg?v=1745311842",
+        "https://www.mariab.pk/cdn/shop/files/DWEA2590CoffeeCloseup_G_2400x2400.jpg?v=1745311842"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 2200,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "sea green",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-5Front_A_759501ac-356d-4fe9-9d2a-e452b6d7d148_2400x2400.jpg?v=1748336190",
+        "https://www.mariab.pk/cdn/shop/files/D-5Closeup_E_55acad2b-822d-432f-b136-403bfc710045_2400x2400.jpg?v=1748336190",
+        "https://www.mariab.pk/cdn/shop/files/D-5Closeup_F_aeec5f93-7b45-4d62-8018-22454869887c_2400x2400.jpg?v=1748336190",
+        "https://www.mariab.pk/cdn/shop/files/D-5Closeup_G_385da46c-93a1-4293-ad65-e1facb9eee85_2400x2400.jpg?v=1748336190"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1800,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "white",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-9Front_A_ce08c264-dc4c-4d5e-b21e-b297cc58d81d_2400x2400.jpg?v=1748336477",
+        "https://www.mariab.pk/cdn/shop/files/D-9Closeup_D_1699cc64-ca93-4e32-8852-cdcc85280654_2400x2400.jpg?v=1748336477",
+        "https://www.mariab.pk/cdn/shop/files/D-9Closeup_E_11a7bb09-95fe-470d-9f91-cac542c48a4b_2400x2400.jpg?v=1748336477",
+        "https://www.mariab.pk/cdn/shop/files/D-9Closeup_F_200f1f7b-7d14-4d70-9ef9-2f8057a8587c_2400x2400.jpg?v=1748336477"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1800,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "mustard",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-6Front_A_e184104a-5c72-45b1-82d3-bd6ef0174159_2400x2400.jpg?v=1748336236",
+        "https://www.mariab.pk/cdn/shop/files/D-6Closeup_E_70ad72cc-4c3a-4e7a-bb2d-a893e274d643_2400x2400.jpg?v=1748336236",
+        "https://www.mariab.pk/cdn/shop/files/D-6Closeup_G_08fc6da2-8848-4fd4-8ab8-36b90261ebba_2400x2400.jpg?v=1748336236",
+        ""
+      ]
+    },
+    {
+      "id": "16",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1000,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "lime yellow",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-12AFront_A_1a1c90b7-da89-4f3f-9a6e-ccda37c2ade4_2400x2400.jpg?v=1741935425",
+        "https://www.mariab.pk/cdn/shop/files/D-12ACloseup_E_832e9ca8-1a1b-4128-9a6b-87b9617541fa_2400x2400.jpg?v=1741935425",
+        "https://www.mariab.pk/cdn/shop/files/D-12ACloseup_D_4b25720b-6c58-439d-9122-a1dbfa6bb38b_2400x2400.jpg?v=1741935425",
+        "https://www.mariab.pk/cdn/shop/files/D-12ACloseup_F_3866a243-d0ee-42fd-8aeb-4aa2b45aaa84_2400x2400.jpg?v=1741935425"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1700,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "aqua",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-14AFront_A_74c82206-8693-4420-9d5e-ab8426af03a5_2400x2400.jpg?v=1741935592",
+        "https://www.mariab.pk/cdn/shop/files/D-14ACloseup_D_72b6c3c4-ca30-4531-ace7-8375300fa3d6_2400x2400.jpg?v=1741935592",
+        "https://www.mariab.pk/cdn/shop/files/D-14ACloseup_E_a35a18cf-3e80-48f9-8c53-3a06553ea168_2400x2400.jpg?v=1741935592",
+        "https://www.mariab.pk/cdn/shop/files/D-14ACloseup_F_2400x2400.jpg?v=1741935592"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "3 Piece Embroidered Lawn Suit",
+      "productId": "DW-MN25-11",
+      "category": "Lawn Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1200,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "Fuchsia Pink",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-8AFront_A_c0f280b1-ac01-4b3e-a16d-3922ebb1c8fe_2400x2400.jpg?v=1741935036",
+        "https://www.mariab.pk/cdn/shop/files/D-8ACloseup_D_d46f49e8-77d6-479a-95c7-a192b1cdd554_2400x2400.jpg?v=1741935036",
+        "https://www.mariab.pk/cdn/shop/files/D-8ACloseup_E_15098414-74f1-4fbc-a2b4-98b7e9b79748_2400x2400.jpg?v=1741935036",
+        "https://www.mariab.pk/cdn/shop/files/D-8ACloseup_F_b77b9fc5-78ce-4782-b97f-1f0a1f166d7e_2400x2400.jpg?v=1741935036"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 0,
+      "number": 0,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1500,
+      "isNew": true,
+      "size": {
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "coffee",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-3AFront_A_ca65941f-c6f9-4636-a9c8-f80f275a337d_2400x2400.jpg?v=1741934387",
+        "https://www.mariab.pk/cdn/shop/files/D-3ACloseup_D_9420067e-eaad-47b4-92ec-bd2c72e0ed3f_2400x2400.jpg?v=1741934387",
+        "https://www.mariab.pk/cdn/shop/files/D-3ACloseup_E_a508deb8-36ea-48ef-924b-50434306f276_2400x2400.jpg?v=1741934387",
+        "https://www.mariab.pk/cdn/shop/files/D-3ACloseup_F_6aa5b089-c1ca-4c97-846d-aadad2bf80c4_2400x2400.jpg?v=1741934387"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "3 Piece Embroidered Chiffon Suit",
+      "productId": "DW-MN25-11",
+      "category": "Chiffon Suit",
+      "rating": 5,
+      "number": 1,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1100,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "red",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-08AFront_A_81471e27-fc61-4d4e-bd85-bb61b6a83703_2400x2400.jpg?v=1747740657",
+        "https://www.mariab.pk/cdn/shop/files/D-08ACloseup_D_86e097b0-7d7d-44a9-bedf-a6939d016e95_2400x2400.jpg?v=1747740657",
+        "https://www.mariab.pk/cdn/shop/files/D-08ACloseup_E_4f7c7fed-32df-4977-a872-4ceabf871140_2400x2400.jpg?v=1747740657",
+        "https://www.mariab.pk/cdn/shop/files/D-08ACloseup_F_e2954d38-32e3-4902-b9a5-b50febbb2d47_2400x2400.jpg?v=1747740657"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "3 Piece Embroidered Cotton Suit",
+      "productId": "DW-MN25-11",
+      "category": "Cotton Suit",
+      "rating": 5,
+      "number": 1,
+      "date": "2019-12-01",
+      "bestSelling": false,
+      "price": 1400,
+      "isNew": true,
+      "size": {
+        "XS": 4,
+        "S": 5,
+        "M": 8,
+        "L": 2,
+        "XL": 1
+      },
+      "quantity": [
+        {
+          "XS": 0,
+          "checked": true,
+          "addBuy": 0
+        },
+        {
+          "S": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "M": 0,
+          "checked": false,
+          "addBuy": 0
+        },
+        {
+          "XL": 0,
+          "checked": false,
+          "addBuy": 0
+        }
+      ],
+      "color": "peach",
+      "isRecommended": "",
+      "isTopSellers": "",
+      "isMostPopular": "",
+      "isNewArrival": "",
+      "description": [
+        {
+          "label": "Shirt",
+          "explain": [
+            "Straight-Cut Shirt",
+            "Dyed Front With Embroidery",
+            "Organza Embroidered Border With Pintex Detailing",
+            "Embroidered Sleeves With Pintex Detailing O",
+            "Organza Embroidered Border",
+            "Dyed Back",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Dobby"
+          ]
+        },
+        {
+          "label": "Trousers",
+          "explain": [
+            "Dyed Straight Trouser",
+            "Elasticated Waistband",
+            "Fit: Regular",
+            "Color: Magenta",
+            "Fabric: Cambric"
+          ]
+        },
+        {
+          "label": "Dupata",
+          "explain": [
+            "Dyed Dupatta With Spray Embroidery",
+            "Four-Side Embroidered Border",
+            "Color: Magenta",
+            "Fabric: Cotton Net",
+            "Work Details: Sequins & Thread Embroidery",
+            "Model is wearing xs size",
+            "Note: Dry Clean Only"
+          ]
+        }
+      ],
+      "images": [
+        "https://www.mariab.pk/cdn/shop/files/D-13AFront_A_b55bee47-53ab-4b15-840f-57539996e4a7_2400x2400.jpg?v=1741935515",
+        "https://www.mariab.pk/cdn/shop/files/D-13ACloseup_D_2400x2400.jpg?v=1741935515",
+        "https://www.mariab.pk/cdn/shop/files/D-13ACloseup_E_2400x2400.jpg?v=1741935515",
+        "https://www.mariab.pk/cdn/shop/files/D-13ACloseup_F_2400x2400.jpg?v=1741935515"
+      ]
+    }
+  ]
+}
